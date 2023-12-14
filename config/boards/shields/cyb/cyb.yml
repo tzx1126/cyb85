@@ -1,6 +1,6 @@
 file_format: "1"
-id: skew68
-name: skew68
+id: cyb
+name: cyb
 type: shield
 url: 
 requires: [nrfmicro_13_52840]
