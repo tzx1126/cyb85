@@ -26,14 +26,14 @@
             // --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
             bindings = <
-&kp TAB           &kp Q          &kp W         &kp E    &kp R    &kp T                 &kp Y         &kp U      &kp I          &kp O          &kp P          &kp LBKT   &kp RBKT
-&kp CLCK          &kp A          &kp S         &kp D    &kp F    &kp G                 &kp H         &kp J      &kp K          &kp L          &kp SEMI       &kp SQT    &kp BSPC
-&kp LSHFT         &kp Z          &kp X         &kp C    &kp V    &kp B                 &kp N         &kp M      &kp COMMA      &kp DOT        &kp FSLH       &kp RSHFT  &kp ENTER
-&kp LCTRL         &kp LEFT_WIN   &kp LEFT_ALT                    &kp SPACE                                                     &kp RIGHT_ALT  &kp RIGHT_GUI  &mo 1      &kp RCTRL
-&kp K_PLAY_PAUSE  &kp ESC        &kp F1        &kp F2   &kp F3   &kp NON_US_BACKSLASH  &kp ASTERISK  &kp MINUS  &kp N7         &kp N8         &kp N9
-                  &kp GRAVE      &kp F4        &kp F5   &kp F6   &kp DELETE            &kp SLASH     &kp PLUS   &kp NUMBER_4   &kp N5         &kp N6
-                  &kp PAGE_UP    &kp F7        &kp F8   &kp F9                         &kp UP                   &kp N1         &kp N2         &kp N3
-                  &kp PAGE_DOWN  &kp F10       &kp F11  &kp F12  &kp LEFT              &kp DOWN      &kp RIGHT  &kp BACKSLASH  &kp N0         &kp DOT
+&kp TAB    &kp Q            &kp W         &kp E    &kp R    &kp T                 &kp Y            &kp U             &kp I          &kp O          &kp P          &kp LBKT   &kp RBKT
+&kp CLCK   &kp A            &kp S         &kp D    &kp F    &kp G                 &kp H            &kp J             &kp K          &kp L          &kp SEMI       &kp SQT    &kp BSPC
+&kp LSHFT  &kp Z            &kp X         &kp C    &kp V    &kp B                 &kp N            &kp M             &kp COMMA      &kp DOT        &kp FSLH       &kp RSHFT  &kp ENTER
+&kp LCTRL  &kp LEFT_WIN     &kp LEFT_ALT                    &kp SPACE                                                               &kp RIGHT_ALT  &kp RIGHT_GUI  &kp B      &kp RCTRL
+&kp C      &kp ESC          &kp F1        &kp F2   &kp F3   &kp NON_US_BACKSLASH  &kp KP_MULTIPLY  &kp LC(KP_MINUS)  &kp N7         &kp N8         &kp N9
+           &kp GRAVE        &kp F4        &kp F5   &kp F6   &kp DELETE            &kp KP_DIVIDE    &kp KP_PLUS       &kp NUMBER_4   &kp N5         &kp N6
+           &rgb_ug RGB_TOG  &kp F7        &kp F8   &kp F9                         &kp UP                             &kp N1         &kp N2         &kp N3
+           &kp A            &kp F10       &kp F11  &kp F12  &kp LEFT              &kp DOWN         &kp RIGHT         &kp BACKSLASH  &kp N0         &kp DOT
             >;
 
             // 定义旋钮
